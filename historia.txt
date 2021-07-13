@@ -1,0 +1,17 @@
+nombre;email;grupo;notas
+ARCOS AMADOR LESLIE RUBI;aoal041105mmcrmsa3@bggem.mx;44mat;
+BERRIOZABAL MARTINEZ ZADQUIEL IVAN;bemz041111hmcrrda5@bggem.mx;44mat;
+BLANCAS HEREDIA ESMERALDA;bahe030326mdflrsa3@bggem.mx;44mat;
+BURGOS MARTINEZ ALEXIA SUZET;buma041223mmcrrla3@bggem.mx;44mat;
+CAMACHO REYES NADIESDHA ALAYLANI;carn041110mmcmyda5@bggem.mx;44mat;
+CERVANTES CASTILLO YOLANDA GABRIELA;cecy030303mdfrsla4@bggem.mx;44mat;
+CRISOSTOMO GARCIA CRISTOPHER;cigc040406hmcrrra4@bggem.mx;44mat;
+DIAZ LAGUNA INGRID LORELI;dili030805mdfzgna2@bggem.mx;44mat;
+ESPINOSA CRUZ VALERIA YIZEL;eicv030828mdfsrla4@bggem.mx;44mat;
+FERNANDEZ ESPINOSA VALERY DANAE;feev030524mmcrsla7@bggem.mx;44mat;
+FRAGOSO TORRES DIEGO SALVADOR;fatd040913hdfrrga0@bggem.mx;44mat;
+FRANCO OSORIO JESUS;faoj040701hmcrssa2@bggem.mx;44mat;
+GARCIA FONSECA JUAN FRANCISCO;gafj020926hdfrnna0@bggem.mx;44mat;
+GUARNEROS HERNANDEZ YAEL;guhy040505hdfrrla4@bggem.mx;44mat;
+
+nueva lìnea
